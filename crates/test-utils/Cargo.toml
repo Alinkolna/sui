@@ -8,7 +8,7 @@ edition = "2021"
 
 [dependencies]
 anyhow = { version = "1.0.64", features = ["backtrace"] }
-futures = "0.3.23"
+futures = "0.3.25"
 tempfile = "3.3.0"
 tracing = "0.1.36"
 signature = "1.6.0"

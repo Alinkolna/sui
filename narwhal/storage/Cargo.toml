@@ -11,7 +11,7 @@ publish = false
 tempfile = "3.3.0"
 dashmap = "5.4.0"
 fastcrypto.workspace = true
-futures = "0.3.24"
+futures = "0.3.25"
 store.workspace = true
 thiserror = "1.0.35"
 tokio = { version = "1.20.1", features = ["sync", "rt", "macros"] }
